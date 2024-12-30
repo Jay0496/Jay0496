@@ -10,7 +10,7 @@ I am deeply passionate about technology and seek opportunities to explore innova
 # 📖 Relevant Courses
 
 
-| **Year 1**                                | **Year 2**                                                                                      | **Year 3 (Current Courses)**                                                    | **Year 3 (Upcoming Courses)**                                      |
+| **Year 1**                                | **Year 2**                                                                                      | **Year 3 (Completed Courses)**                                                    | **Year 3 (Current Courses)**                                      |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|
 | Linear Algebra                          | Web Programming                                                                               | Microprocessors and Computer Architecture                                    | Computer Networks                                                 |
 | Calculus I                              | Object Oriented Programming                                                                   | Systems Programming                                                          | Artificial Intelligence                                           |
