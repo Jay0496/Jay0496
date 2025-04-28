@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay Savaliya
-- 3rd year Software Engineering student
-- Interested in AI/ML and Embedded systems 
+- 4th year Software Engineering student at Ontario Tech University
+- Interested in Back-end development, AI/ML, and Embedded systems 
 - Seeking  Co-op/internship opportunities
 
 # 💫 About Me:
@@ -10,16 +10,17 @@ I am deeply passionate about technology and seek opportunities to explore innova
 # 📖 Relevant Courses
 
 
-| **Year 1**                                | **Year 2**                                                                                      | **Year 3 (Completed Courses)**                                                    | **Year 3 (Current Courses)**                                      |
+| **Year 1**                                | **Year 2**                                                                                      | **Year 3 (Completed Courses)**                                                    | **Year 4 (Current Courses)**                                      |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| Linear Algebra                          | Web Programming                                                                               | Microprocessors and Computer Architecture                                    | Computer Networks                                                 |
-| Calculus I                              | Object Oriented Programming                                                                   | Systems Programming                                                          | Artificial Intelligence                                           |
-| Calculus II                             | Discrete Math                                                                                 | Database Management Systems                                                  | Software Quality and Project Management                           |
-| Physics I                               | Electric Circuits                                                                             | Design and Analysis of Algorithms                                            | Operating Systems                                                 |
-| Physics II                              | Digital Systems                                                                               | Software Design and Architecture                                             |                                                                    |
-| Introduction to Programming             | Statistics                                                                                    |                                                                                |                                                                    |
-|                                           | Data Structures                                                                               |                                                                                |                                                                  |
-|                                           | Principles of Software and Requirements Engineering                                           |                                                                                |                                                                 |
+| Linear Algebra                          | Web Programming                                                                               | Microprocessors and Computer Architecture                                    | Embedded Systems                                                 |
+| Calculus I                              | Object Oriented Programming                                                                   | Systems Programming                                                          | Design and Analysis of IoT Software Systems                                          |
+| Calculus II                             | Discrete Math                                                                                 | Database Management Systems                                                  | Mobile Application Development                         |
+| Physics I                               | Electric Circuits                                                                             | Design and Analysis of Algorithms                                            | Distributed Systems                                                 |
+| Physics II                              | Digital Systems                                                                               | Software Design and Architecture                                             | Machine Learning and Data Mining                                                                   |
+| Introduction to Programming             | Statistics                                                                                    | Computer Networks                                                                | Cloud Computing                                                                   |
+|                                           | Data Structures                                                                               | Artificial Intelligence                                                        | Software and Computer Security                                                                 |
+|                                           | Principles of Software and Requirements Engineering                                           |  Software Quality and Project Management                                        |                                                                 |
+|                |                                                                                                                          | Operating Systems                                                              |
 
 
 <br>
