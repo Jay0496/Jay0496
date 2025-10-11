@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Jay Savaliya
 - 4th year Software Engineering student at Ontario Tech University
-- Interested in Back-end development, AI/ML, and Embedded systems 
-- Seeking  Co-op/internship opportunities
+- Interested in Back-end development, AI/ML, and Embedded systems
 
 # 💫 About Me:
 I am deeply passionate about technology and seek opportunities to explore innovative ideas, develop new skills, and contribute to projects that make a meaningful impact. My primary interests lie at the intersection of computer architecture and artificial intelligence, where hardware and software converge. I am eager to continue learning about these rapidly evolving fields and to contribute my skills to innovative projects that push the boundaries of both hardware and artificial intelligence.
