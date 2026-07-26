@@ -6,7 +6,7 @@
 - Volleyball Enthusiast
 
 # 💫 About Me:
-I'm a software engineer driven by a deep curiosity for how complex systems work. If a technology sparks my interest, I like to spend time exploring and learning more about it. I focus on purposeful building, creating high-impact solutions at the intersection of backend scalability, embedded systems, and practical AI integration.
+I'm a software engineer driven by a deep curiosity for how complex systems work. If a technology sparks my interest, I like to spend time exploring and learning more about it. My goal is to solve complex problems by contributing to high-impact projects across backend scalability, embedded systems, robotics, and practical AI integration.
 
 # Focus & Technical Interests
 - Backend & Platform: High-concurrency architectures, system performance, API design, and scalable infrastructure.
